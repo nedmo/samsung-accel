@@ -9,4 +9,5 @@ data per the instructions for the course project quoted below:
  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
 The code outputs the data from step 5 as a text file called "means_by_activity_and_subject.txt"
+
 A description of the data in the output file is included in the "codebook.Rd" R documentation file.
